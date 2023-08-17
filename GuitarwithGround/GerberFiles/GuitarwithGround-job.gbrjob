@@ -5,12 +5,12 @@
       "Application": "Pcbnew",
       "Version": "7.0.7"
     },
-    "CreationDate": "2023-08-16T19:35:14-07:00"
+    "CreationDate": "2023-08-16T20:11:19-07:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
-      "Name": "testing",
-      "GUID": "74657374-696e-4672-9e6b-696361645f70",
+      "Name": "GuitarwithGround",
+      "GUID": "47756974-6172-4776-9974-6847726f756e",
       "Revision": "rev?"
     },
     "Size": {
@@ -32,47 +32,47 @@
   ],
   "FilesAttributes": [
     {
-      "Path": "testing-F_Cu.gbr",
+      "Path": "GuitarwithGround-F_Cu.gbr",
       "FileFunction": "Copper,L1,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "testing-B_Cu.gbr",
+      "Path": "GuitarwithGround-B_Cu.gbr",
       "FileFunction": "Copper,L2,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "testing-F_Paste.gbr",
+      "Path": "GuitarwithGround-F_Paste.gbr",
       "FileFunction": "SolderPaste,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "testing-B_Paste.gbr",
+      "Path": "GuitarwithGround-B_Paste.gbr",
       "FileFunction": "SolderPaste,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "testing-F_Silkscreen.gbr",
+      "Path": "GuitarwithGround-F_Silkscreen.gbr",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "testing-B_Silkscreen.gbr",
+      "Path": "GuitarwithGround-B_Silkscreen.gbr",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "testing-F_Mask.gbr",
+      "Path": "GuitarwithGround-F_Mask.gbr",
       "FileFunction": "SolderMask,Top",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "testing-B_Mask.gbr",
+      "Path": "GuitarwithGround-B_Mask.gbr",
       "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "testing-Edge_Cuts.gbr",
+      "Path": "GuitarwithGround-Edge_Cuts.gbr",
       "FileFunction": "Profile",
       "FilePolarity": "Positive"
     }
